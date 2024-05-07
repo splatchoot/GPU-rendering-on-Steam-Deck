@@ -37,4 +37,14 @@ and then:
 blender should launch, go to the settings, then system, select "***HIP***", and enable:
 * AMD Custom GPU 0405 ✅
 * AMD Custom APU 0405 ✅
-from the list under the cycles render device option
+from the list under the cycles render device option, then just go into your scene and select GPU rendering instead of CPU rendering
+
+
+
+
+
+
+
+> [!NOTE]
+> Check this file for every videos and docs i used:
+[References, Documents, Forums and videos i used to figure this out](useless%20unformated%20files/GPU%20rendering%20on%20steam%20deck.txt)
