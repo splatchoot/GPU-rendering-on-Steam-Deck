@@ -50,3 +50,8 @@ from the list under the cycles render device option, then just go into your scen
 > [!NOTE]
 > Check this file for every videos and docs i used:
 [GPU rendering on steam deck.txt](useless%20unformated%20files/GPU%20rendering%20on%20steam%20deck.txt)
+
+
+> [!TIP]
+> You can use a shell script to make the workflow easier, you can find mine here
+[Blender-gpu.sh](Blender-gpu.sh)
