@@ -1,0 +1,49 @@
+Blender GPU rendering on steam deck:
+
+Konsol command history:
+
+  421  sudo pacman -S rocm-hip-runtime
+  422  reboot
+  423  sudo pacman -S libamdhip
+  424  sudo usermod -a -G video $USER && sudo usermod -a -G render $USER
+  425  sudo pacman -S rocm-hip-runtime
+  426  reboot
+  427  sudo pacman -S rocm-opencl-sdk
+  428  sudo pacman -S rocm-hip-sdk
+  429  sudo pacman -S hsa-amd-aqlprofile-bin
+  430  reboot
+  431  ./blender  --debug-gpu-force-workarounds~
+  432  blender  --debug-gpu-force-workarounds
+  433  org.blender.Blender --debug-gpu-force-workarounds
+  434  /home/deck/Desktop/blender-3.6.11-linux-x64/blender-launcher--debug-gpu-force-workarounds
+  435  /home/deck/Desktop/blender-3.6.11-linux-x64/blender-launcher --debug-gpu-force-workarounds
+  436  cd /home/deck/Desktop/blender-3.6.11-linux-x64/
+  437  ./blender  --debug-gpu-force-workarounds
+  438  pacman -Ss HIP-toolkit
+  439  echo
+  440  echo hi
+  441  sudo pacman -S amdgpu-install
+  442  HSA_OVERRIDE_GFX_VERSION=10.3.0 ./blender
+  443  HSA_OVERRIDE_GFX_VERSION=10.3.0 ./blender
+  444  HSA_OVERRIDE_GFX_VERSION=10.3.0 ./blender
+  445  HSA_OVERRIDE_GFX_VERSION=10.3.0 ./blender
+  446  HSA_OVERRIDE_GFX_VERSION=10.3.0 ./blender
+  447  HSA_OVERRIDE_GFX_VERSION=10.3.0 ./blender
+  448  HSA_OVERRIDE_GFX_VERSION=10.3.0 ./blender
+  449  HSA_OVERRIDE_GFX_VERSION=10.3.0 ./blender
+  450  HSA_OVERRIDE_GFX_VERSION=10.3.0 ./blender
+  451  history 20
+  452  history 50
+(deck@MiaouDeck ~)$
+
+Wiki and forums used (even the irelevant ones):
+
+https://github.com/orgs/rocm-arch/discussions/955
+https://github.com/LuxCoreRender/BlendLuxCore/releases
+https://www.reddit.com/r/blender/comments/va6fdx/hip_rendering_on_arch_linux_with_amd_gpu/
+https://devtalk.blender.org/t/cycles-amd-hip-device-feedback/21400/603
+https://rocm.docs.amd.com/projects/install-on-linux/en/latest/reference/system-requirements.html
+https://rocm.docs.amd.com/projects/install-on-linux/en/latest/reference/system-requirements.html
+https://docs.blender.org/manual/en/latest/render/cycles/gpu_rendering.html
+https://www.cyberciti.biz/faq/howto-searching-for-package-in-arch-linux-using-regex/
+https://blenderartists.org/t/hipcc-compiler-is-not-found/1389070
