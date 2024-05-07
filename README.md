@@ -3,6 +3,8 @@ how to get the GPU rendering option fully working on steam deck (experimental)
 
 # ***THIS IS EXPERIMENTAL, I AM NOT RESPONSIBLE IF YOUR STEAM DECK BECOMES A SOLAR OVEN AND BLOWS UP***
 
+use [this file](afterupdate.sh) to skip every step, there's only a few commands in there, feel free to open it up with kate and check everything yourself
+
 ### First of all, those are the packages you (probably) need:
 Shortened version:
 ```
