@@ -49,6 +49,4 @@ from the list under the cycles render device option, then just go into your scen
 
 > [!NOTE]
 > Check this file for every videos and docs i used:
-
-
-[GPU rendering on steam deck.txt](useless%20unformated%20files/GPU%20rendering%20on%20steam%20deck.txt)
+[References, Documents, Forums and videos i used to figure this out](useless%20unformated%20files/GPU%20rendering%20on%20steam%20deck.txt)
