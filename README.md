@@ -1,3 +1,7 @@
+> [!WARNING]
+> [Help wanted, click this link to get more informations](help_request.md)
+
+
 # GPU-rendering-on-Steam-Deck
 how to get the GPU rendering option fully working on steam deck (experimental)
 
