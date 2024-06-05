@@ -12,9 +12,10 @@ how to get the GPU rendering option fully working on steam deck (experimental)
 * rocm-hip-sdk
 * hsa-amd-aqlprofile-bin
 
-### Adding HIP tools to system PATH:
+### Adding HIP tools to system PATH and adding user to 2 groups:
 * `export PATH=/opt/rocm/hip/bin:$PATH`
 * `source ~/.bashrc`
+* `sudo usermod -a -G video $USER && sudo usermod -a -G render $USER`
 
 ## Download Blender from their official website (NOT FROM DISCOVERY STORE)
 1. download any blender version (after 3.0) from https://www.blender.org
