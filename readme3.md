@@ -1,4 +1,4 @@
-![Main banner](https://i.imgur.com/oL2NrkY.jpeg)
+![Main banner](https://i.imgur.com/gVE5Qt0.png)
 
 # Quick recap (you can skip ahead if you aren't interested):
 
@@ -30,4 +30,8 @@ after combining my reaserches, i came up with the following:
    * `source ~/.bashrc` | The source ~/.bashrc command reloads your .bashrc file, applying any changes to your terminal session immediately (including adding stuff to $PATH).
    * `sudo usermod -a -G video $USER && sudo usermod -a -G render $USER` | The command adds your current user to the video and render groups, granting access to video and rendering resources (basically, allows blender to use stuff that are specific to certain groups ((i think)) )
    * `HSA_OVERRIDE_GFX_VERSION=10.3.0 ./blender` | The command HSA_OVERRIDE_GFX_VERSION=10.3.0 ./blender sets an environment variable to override the detected GPU version, forcing Blender to use version 10.3.0 for compatibility (i don't really have a shorter explanation, sorry lazy readers).
-
+3. Core stuff (you will see what i mean, well, i hope you do):
+   * [Pacman](https://pacman.archlinux.page) | the default package manager for arch linux/SteamOS
+   * [Blender.org](https://www.blender.org) | the official blender wesbsite to get the "raw" realeases (it's probably not an actual word used for that kind of thing, but eh ((raw realease as in every files you need in a .zip, not from a package manager)) )
+   * [AMD - HIP](https://rocm.docs.amd.com/projects/HIP/en/latest/index.html) | AMD files to basically help blender use your GPU
+   * GPU ≠ APU | A GPU is for graphics processing only, while an APU combines a CPU and GPU on one chip for both processing and graphics.
