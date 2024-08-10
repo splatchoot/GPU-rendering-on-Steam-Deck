@@ -55,7 +55,7 @@ I do need help, so if you have ANY info, you got 2 options (or more if you are a
 # Final note:
 
 Thanks to anyone who helps, and thanks to 
-- [@Digitalist)[https://www.youtube.com/@3Digitalist]
+- [@Digitalist](https://www.youtube.com/@3Digitalist)
 - **d[⇀_↼]b** (someone on discord who i consider a friend and who helped me through getting stuff to work
 - Valve, for giving me a challenge (and not an easy one too :joy:)
 - My own dedication (if you can't thank yourself, there's not many chances you can get happy in life)
