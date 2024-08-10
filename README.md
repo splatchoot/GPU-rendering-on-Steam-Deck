@@ -38,7 +38,7 @@ after combining my reaserches, i came up with the following:
 
 # Why another readme.md?
 Why not? :monocle_face: No but more seriously, the clearer those things are, the better, tweaking your os is NOT RECOMMENDED (i had to return my deck to the factory because i messed up a liiiiittle bit too much :grimacing:
-and also because of [@Digitalist)[https://www.youtube.com/@3Digitalist], he recently posted this [video](https://www.youtube.com/watch?v=gAvdmQE1Gbo) which kinda helped me get back to work (thanks a lot, really 	:heart:)
+and also because of [@Digitalist](https://www.youtube.com/@3Digitalist), he recently posted this [video](https://www.youtube.com/watch?v=gAvdmQE1Gbo) which kinda helped me get back to work (thanks a lot, really 	:heart:)
 
 # A **BIG** warning:
 DO NOT, I REPEAT, DO **NOT** IN ANY CASE UPDATE/CHANGE THE [MESA](https://github.com/ValveSoftware/steamos_mesa) PACKAGE, IF YOU DO:
