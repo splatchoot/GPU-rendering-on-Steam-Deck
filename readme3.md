@@ -35,3 +35,27 @@ after combining my reaserches, i came up with the following:
    * [Blender.org](https://www.blender.org) | the official blender wesbsite to get the "raw" realeases (it's probably not an actual word used for that kind of thing, but eh ((raw realease as in every files you need in a .zip, not from a package manager)) )
    * [AMD - HIP](https://rocm.docs.amd.com/projects/HIP/en/latest/index.html) | AMD files to basically help blender use your GPU
    * GPU ≠ APU | A GPU is for graphics processing only, while an APU combines a CPU and GPU on one chip for both processing and graphics.
+
+# Why another readme.md?
+Why not? :monocle_face: No but more seriously, the clearer those things are, the better, tweaking your os is NOT RECOMMENDED (i had to return my deck to the factory because i messed up a liiiiittle bit too much :grimacing:
+and also because of [@Digitalist)[https://www.youtube.com/@3Digitalist], he recently posted this [video](https://www.youtube.com/watch?v=gAvdmQE1Gbo) which kinda helped me get back to work (thanks a lot, really 	:heart:)
+
+# A **BIG** warning:
+DO NOT, I REPEAT, DO **NOT** IN ANY CASE UPDATE/CHANGE THE [MESA](https://github.com/ValveSoftware/steamos_mesa) PACKAGE, IF YOU DO:
+
+1. Your Steam Deck won't boot up anymore and will probably get stuck to the logo (sucks to be your steam deck with a modified mesa package)
+2. To (maybe) fix this issue, press ••• + Power ON, then select the second option (Something like SteamOS-B), Go into the settings (steamOS ones) `settings > system > check for updates` and start praying that you have one pending (believer or not, trust me), if you do, press update, the deck restarts, and everything should be fixed, if you don't... RIP i guess
+
+# What's currently happening with this repo:
+I have honestly no idea, i'm still searching, every day, because it used to work for me, but life isn't fun if things just work (like i said on the first section of this repo), and now guess what, it's not working! So yeah, i'm actively searching, documenting, breaking my deck~ huuu, i mean... tweaking my deck? :flushed:
+I do need help, so if you have ANY info, you got 2 options (or more if you are a stalker):
+- [Discord](https://discord.com) - add me, my username is `splatchoot` (i'm sorry if i reply in a mean way at first, but there's a LOT of scams on discord, pretty annoying)
+- the "discussions" section on github on this repo
+
+# Final note:
+
+Thanks to anyone who helps, and thanks to 
+- [@Digitalist)[https://www.youtube.com/@3Digitalist]
+- **d[⇀_↼]b** (someone on discord who i consider a friend and who helped me through getting stuff to work
+- Valve, for giving me a challenge (and not an easy one too :joy:)
+- My own dedication (if you can't thank yourself, there's not many chances you can get happy in life)
