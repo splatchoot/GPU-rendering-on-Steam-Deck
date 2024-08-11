@@ -49,7 +49,7 @@ DO NOT, I REPEAT, DO **NOT** IN ANY CASE UPDATE/CHANGE THE [MESA](https://github
 # What's currently happening with this repo:
 I have honestly no idea, i'm still searching, every day, because it used to work for me, but life isn't fun if things just work (like i said on the first section of this repo), and now guess what, it's not working! So yeah, i'm actively searching, documenting, breaking my deck~ huuu, i mean... tweaking my deck? :flushed:
 I do need help, so if you have ANY info, you got 2 options (or more if you are a stalker):
-- [Discord](https://discord.com) - add me, my username is `splatchoot` (i'm sorry if i reply in a mean way at first, but there's a LOT of scams on discord, pretty annoying)
+- [Discord](https://discord.com) - add me, my username is [splatchoot](https://discord.com/invite/bjBkFVVH) (i'm sorry if i reply in a mean way at first, but there's a LOT of scams on discord, pretty annoying)
 - the "discussions" section on github on this repo
 
 # Final note:
